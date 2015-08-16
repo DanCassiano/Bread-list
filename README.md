@@ -12,5 +12,11 @@ Lista para compra dos pães de cada dia!
 * produtos com seus respectivos valores.
 * pessoas que farão o consumo dos produtos.
 
+
+
+# 1º Reunião 
+
+	-definicoes
+
     
     
